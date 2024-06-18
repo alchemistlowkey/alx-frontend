@@ -3,6 +3,7 @@
 ## Concepts
 For this project, we expect you to look at this concept:
 - [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
+
 ![advanced_html](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/1e3ae7b7-31d3-46ac-b1fa-09fc5ab3ed7a)
 
 ## Welcome!
