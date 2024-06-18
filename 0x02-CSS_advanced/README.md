@@ -50,6 +50,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 [download favicon.jpg](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=06fcf6c342627dc911dd388197d3b441b8c1661c3862eb78cb49c518c25e6237)
 
+==================================================================================================
 
 `logo-black.png`
 
@@ -57,12 +58,15 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 [download logo-black.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=8bfa1275ae089d2f40ec01d4242ddadafa7dd4d788322679159142916b09355a)
 
+==================================================================================================
 
 `logo-white.png`
 
 ![white](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/292825c1-2e71-4048-963e-f060b5555191)
 
 [download logo-white.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d88d7626839d1426733e17b86cfbfb44cd1689d14a69de420f3c13c9ffc3520f)
+
+==================================================================================================
 
 Store all these under a directory named “images”
 
