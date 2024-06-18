@@ -3,6 +3,7 @@
 ## Concepts
 For this project, we expect you to look at this concept:
 - [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
+![advanced_html](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/1e3ae7b7-31d3-46ac-b1fa-09fc5ab3ed7a)
 
 ## Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
@@ -41,6 +42,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - `Techium` will be the name of the company we will use across our webpages.
 
 ## Sitemap of the project
+![sitemap](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/55e17097-ac7c-4f03-b8de-0257f225a4e1)
 
 ## Wireframe of `Techium` project
-
+![wireframe](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/01b826cf-ba4b-43e1-a10c-b263c417a71a)
