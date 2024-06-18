@@ -5,6 +5,8 @@ For this project, we expect you to look at this concept:
 
 - [Responsive web design](https://intranet.alxswe.com/concepts/546)
 
+![responsive_design](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/1e7e7291-2cea-4cbe-a42b-069caf3f8461)
+
 ## Resources
 #### Read or watch:
 - [The building blocks of responsive design - Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
@@ -29,6 +31,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### Wireframe of the Techium project - mobile version
 
+![techium_mobile](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/f580f841-943b-4f48-b753-36825b6b76c8)
 
 ### Starter files
 `00-index.html`
