@@ -6,6 +6,8 @@ For this project, we expect you to look at these concepts:
 - [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
 - [CSS advanced](https://intranet.alxswe.com/concepts/545)
 
+![css_advanced](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/cbbce04c-b8d6-470c-b316-4bb8066e4f32)
+
 ## Resources
 #### Read or watch
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
@@ -44,16 +46,19 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Files you need for the project
 `favicon.jpg`
 
+![T_favicon](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/61cd9ff7-12e0-4b79-a6fe-519a9b049bfa)
 
 [download favicon.jpg](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=06fcf6c342627dc911dd388197d3b441b8c1661c3862eb78cb49c518c25e6237)
 
 `logo-black.png`
 
+![Techium](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/8ca45163-b88e-4f8d-8158-6e32e2e550f9)
 
 [download logo-black.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=8bfa1275ae089d2f40ec01d4242ddadafa7dd4d788322679159142916b09355a)
 
 `logo-white.png`
 
+![white](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/292825c1-2e71-4048-963e-f060b5555191)
 
 [download logo-white.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240618%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240618T115910Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d88d7626839d1426733e17b86cfbfb44cd1689d14a69de420f3c13c9ffc3520f)
 
@@ -424,6 +429,6 @@ You can save it in a index.html file and replace the <link rel='stylesheet' href
 
 ### End goal of the project
 
-
+![technium_project1](https://github.com/alchemistlowkey/alx-frontend/assets/46524038/dd7d2dd5-84a8-4efc-a3de-47843c5f3b67)
 
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
